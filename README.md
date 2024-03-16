@@ -1,2 +1,2 @@
 # New update of my portfolio
-    - I created this portfolio to refresh my knowledge in html, css, and javascript @2024
+    - I created this portfolio to create new version utilizing html, css, mediaqueries, and javascript @2024
