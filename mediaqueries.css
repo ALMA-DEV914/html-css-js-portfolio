@@ -17,10 +17,12 @@
     #experience,
     .experience-details-container {
       margin-top: 2rem;
+
     }
     #profile,
     .section-container {
       display: block;
+      
     }
     .arrow {
       display: none;
@@ -94,5 +96,15 @@
     }
     .text-container {
       text-align: justify;
+    }
+    #about, #experience, #projects{
+      width: 90%;
+    }
+    .feedback-containers{
+      width: 90%;
+    }
+    .about-details-container{
+      display: block;
+      margin-top: 1rem ;
     }
   }
